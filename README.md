@@ -1,2 +1,2 @@
 # Study
-Study with Big Pokdo Man
+Personal study report
