@@ -1,6 +1,6 @@
 ## Current workouts
 
-Read "**Operating System Concepts**" 10p/day (getting accustomed to English)
+Read "**Operating System Concepts**" 1section/day (getting accustomed to English)
 
 ## Progress
 
