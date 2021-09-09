@@ -4,4 +4,4 @@ Personal study report
 
 ## Progress
 
-Read book
+Read book and learn English
