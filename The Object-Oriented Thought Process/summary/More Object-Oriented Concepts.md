@@ -1,5 +1,5 @@
 ## Progress
-p.55 ~ p.
+p.55 ~ p.80
 
 ## summary
 - More Object-Oriented Concepts
